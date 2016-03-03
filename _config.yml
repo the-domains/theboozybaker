@@ -1,0 +1,28 @@
+name: TheBoozyBaker
+favicon: null
+layout_spectrum: 0.6529179434292018
+typography_spectrum: 0.7905141764786094
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.20937630301341414
+  lightness: 0.9625002855900675
+  saturation: 0.7093492790590972
+  rhythmicContrast: 0.952803507912904
+purpose: []
